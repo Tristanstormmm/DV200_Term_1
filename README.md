@@ -6,6 +6,28 @@ The "Crypto Compare" project is a comprehensive data-driven web application aime
 
 ## Getting Started
 
+## Dependencies
+
+The following dependencies have been installed for this project:
+
+- **@testing-library/jest-dom:** ^5.16.5
+- **@testing-library/react:** ^13.4.0
+- **@testing-library/user-event:** ^13.5.0
+- **axios:** ^1.3.4
+- **bootstrap:** ^5.2.3
+- **chart.js:** ^4.2.1
+- **chartjs-adapter-date-fns:** ^3.0.0
+- **chartjs-adapter-moment:** ^1.0.1
+- **coinranking-api:** ^1.0.0
+- **date-fns:** ^2.29.3
+- **moment:** ^2.29.4
+- **react:** ^18.2.0
+- **react-chartjs-2:** ^5.2.0
+- **react-dom:** ^18.2.0
+- **react-router-dom:** ^6.10.0
+- **react-scripts:** 5.0.1
+- **web-vitals:** ^2.1.4
+
 ### Prerequisites
 
 Before getting started, ensure you have the following software installed:
@@ -14,14 +36,30 @@ Before getting started, ensure you have the following software installed:
 - [Node.js](https://nodejs.org/en)
 - [NPM](https://www.npmjs.com/)
 
-### Installation
+## Installation
 
-To install the necessary dependencies, run the following commands:
+Before you begin, please ensure that you have Node.js and NPM installed. You can download and install them from [here](https://nodejs.org/en/download/). Additionally, make sure you have Git installed for version control and collaboration, which you can download from [here](https://git-scm.com/downloads).
 
-npm install react-bootstrap bootstrap
-npm i react-router-dom
-npm i axios
+To set up the project and install the necessary dependencies, follow these steps:
 
+1. Clone the repository from GitHub using the following command:
+
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+
+   Navigate to the project directory:
+   cd your-repository
+   
+2. Install the required dependencies using NPM:
+
+    npm install
+   
+    This will install all the dependencies listed in the package.json file, including the specific versions specified for each package. Once the installation is complete, you can proceed with running the project or 
+    making any necessary configurations.
+
+3. Make sure to handle any potential errors or conflicts during the installation process, and refer to the documentation for each dependency for more detailed setup instructions if needed.
+
+    Please replace the placeholders such as `your-username` and `your-repository` with your actual GitHub username and repository name. Feel free to customize the instructions as needed to match your project specifics.
 
 ## Features and Functionality
 
