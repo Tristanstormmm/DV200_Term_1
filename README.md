@@ -1,70 +1,78 @@
-# Crypto Compare - Interactive Development 200 Term 1
+# Interactive Development 200 Term 1 - Crypto Compare
 
-## About the Project:
+## About the Project
 
-This project, "Crypto Compare," is a data-driven web application designed to facilitate the comparison of various cryptocurrencies. The application is built using modern technologies such as Node.js and React, and it utilizes the Charts.js framework for data visualization. The main objective is to allow users to explore and analyze cryptocurrency data sets in a user-friendly and informative manner.
+The "Crypto Compare" project is a comprehensive data-driven web application aimed at facilitating the comparison of various cryptocurrencies. Leveraging modern development technologies such as Node.js and React, the application integrates the Charts.js framework for advanced data visualization. This project serves as a practical application to explore and analyze intricate cryptocurrency data sets in a user-friendly and informative manner.
 
-## Getting Started:
+## Getting Started
 
-### Prerequisites:
+### Prerequisites
+
+Before getting started, ensure you have the following software installed:
 
 - [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org/en)
 - [NPM](https://www.npmjs.com/)
 
-### Installation:
+### Installation
 
-To install the necessary dependencies, use the following commands:
+To install the necessary dependencies, run the following commands:
 
-- React Bootstrap: `npm install react-bootstrap bootstrap`
-- React Router DOM: `npm i react-router-dom`
-- Axios: `npm i axios`
+npm install react-bootstrap bootstrap
+npm i react-router-dom
+npm i axios
 
-## Features and Functionality:
 
-The "Crypto Compare" application offers a comprehensive set of features to enable efficient comparison and analysis of various cryptocurrencies. Users can access different pages to view comparisons, timelines, and specific data visualization elements.
+## Features and Functionality
 
-## Concept Process:
+The "Crypto Compare" application offers the following key features:
 
-### Ideation:
+1. **Landing Dashboard:** Presents a comprehensive overview and breakdown of the most relevant properties of the selected cryptocurrency data set, using interactive Chart.js elements to visualize data.
 
-The project was conceptualized with the idea of simplifying the comparison process for various cryptocurrencies, taking inspiration from existing cryptocurrency comparison platforms. The initial wireframes were designed based on these concepts and were further refined during the development process.
+2. **Comparison Page:** Includes a dedicated page for comparing two distinct objects from the data set. It utilizes Bar, Pie, and Radar or Polar Area charts to outline and compare the properties of the selected objects.
 
-### User-side Wireframes:
+3. **Timeline Page:** Displays a dynamic Line Graph that maps the entries of at least 5 different properties across the entire dataset. The timeline is interactive and allows users to change the displayed property via an input.
 
-- [Login Wireframe](./wireframes/login.png)
-- [Home Wireframe](./wireframes/home.png)
-- [Questions Wireframe](./wireframes/questions.png)
-- [Answers Wireframe](./wireframes/answers.png)
-- [Profile Wireframe](./wireframes/profile.png)
+## Concept Process
 
-## Development Process:
+The development process involved the following stages:
 
-### Highlights:
+### Ideation
 
-During the development process, the team focused on implementing the necessary functionalities while emphasizing a user-friendly interface. One of the significant highlights was the thorough exploration of the MERN stack and the integration of various APIs for data retrieval and visualization.
+The project was conceptualized with the primary aim of simplifying the process of comparing various cryptocurrencies. Taking inspiration from existing cryptocurrency comparison platforms, the team brainstormed and designed wireframes to ensure an intuitive user interface.
 
-### Challenges:
+### User-side Wireframes
 
-Several challenges were encountered, particularly related to image uploading within the API. Overcoming these challenges provided valuable insights into the complexities of API integration and data visualization, contributing to the team's overall skill development.
+The project's wireframes were meticulously designed, including the login, home, questions, answers, and profile screens.
 
-## Future Implementation:
+## Development Process
 
-The "Crypto Compare" project has potential for future enhancements, particularly in terms of code optimization, user interactivity, and visual engagement. The team aims to streamline the code further, improve consistency, and introduce more interactive features to enhance the overall user experience.
+### Highlights
 
-## Final Outcome:
+Throughout the development phase, the team emphasized implementing the necessary functionalities while ensuring an intuitive and user-friendly interface. The project also involved a thorough exploration of the MERN stack and the seamless integration of various APIs for efficient data retrieval and visualization.
 
-### Mockup Video:
+### Challenges
 
-A mockup video showcasing the application can be accessed at the following link:
+The development process presented various challenges, notably related to image uploading within the API. Overcoming these obstacles provided valuable insights into the complexities of API integration and data visualization, further enhancing the team's overall skill set.
 
-[Mockup Video](https://github.com/MareliLourens/OpenFlow/assets/109971278/8f61f450-b44c-4f12-83a9-c5c9435bf0a6)
+## Future Implementation
 
-## Conclusion:
+Moving forward, the "Crypto Compare" project has several areas for potential enhancements, including code optimization, increased user interactivity, and enhanced visual engagement. The team plans to streamline the code further, improve overall consistency, and introduce additional interactive features to enhance the user experience.
 
-The "Crypto Compare" project has provided a valuable learning experience for the team, emphasizing the importance of effective communication, teamwork, and technical expertise. The challenges encountered during the development process have significantly contributed to the team's problem-solving abilities and have further solidified their understanding of software development principles. The team looks forward to implementing additional features and improvements in the future, building upon the knowledge gained from this project.
+## Final Outcome
 
-## Contact:
+### Mockup Video
 
-- **Your Name & Surname** - [email@address](mailto:email@address) - [@instagram_handle](https://www.instagram.com/instagram_handle/)
+A comprehensive mockup video demonstrating the application's key features and functionalities is available at the following link: [Mockup Video](https://github.com/MareliLourens/OpenFlow/assets/109971278/8f61f450-b44c-4f12-83a9-c5c9435bf0a6)
+
+## Conclusion
+
+The "Crypto Compare" project has provided an invaluable learning experience for the team, highlighting the significance of effective communication, collaborative teamwork, and technical expertise. Despite the challenges encountered during the development process, the project served as a platform for the team to enhance their problem-solving abilities and solidify their understanding of essential software development principles. The team looks forward to implementing additional features and improvements in the future, leveraging the valuable knowledge gained from this project.
+
+## Contact
+
+For any inquiries or further information, please feel free to reach out to:
+
+- **Tristan Storm** - [email@address](mailto:email@address) - [@instagram_handle](https://www.instagram.com/instagram_handle/)
 - **Project Link** - [Project Link](https://github.com/username/projectname)
+
