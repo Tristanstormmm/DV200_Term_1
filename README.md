@@ -1,5 +1,7 @@
 # Interactive Development 200 Term 1 - Crypto Compare
 
+![home](./wireframes/home.png)
+
 ## About the Project
 
 The "Crypto Compare" project is a comprehensive data-driven web application aimed at facilitating the comparison of various cryptocurrencies. Leveraging modern development technologies such as Node.js and React, the application integrates the Charts.js framework for advanced data visualization. This project serves as a practical application to explore and analyze intricate cryptocurrency data sets in a user-friendly and informative manner.
@@ -32,13 +34,12 @@ The following dependencies have been installed for this project:
 
 Before getting started, ensure you have the following software installed:
 
-- [Git](https://git-scm.com/downloads)
-- [Node.js](https://nodejs.org/en)
-- [NPM](https://www.npmjs.com/)
+- [React]([[https://git-scm.com/downloads](https://react.dev/learn/installation)](https://react.dev/learn/installation))
+- [Chart.js]([https://www.npmjs.com/](https://www.chartjs.org/docs/latest/getting-started/installation.html))
+- [Coinranking]([https://www.npmjs.com/](https://developers.coinranking.com/api/documentation))
+- [React Router]([https://www.npmjs.com/](https://reactrouter.com/en/main))
 
-## Installation
-
-Before you begin, please ensure that you have Node.js and NPM installed. You can download and install them from [here](https://nodejs.org/en/download/). Additionally, make sure you have Git installed for version control and collaboration, which you can download from [here](https://git-scm.com/downloads).
+### Installation
 
 To set up the project and install the necessary dependencies, follow these steps:
 
@@ -47,29 +48,37 @@ To set up the project and install the necessary dependencies, follow these steps
    ```bash
    git clone https://github.com/your-username/your-repository.git
 
-   Navigate to the project directory:
+Replace your-username and your-repository with your actual GitHub username and repository name.
+
+2. Navigate to the project directory:
+
    cd your-repository
-   
-2. Install the required dependencies using NPM:
 
-    npm install
-   
-    This will install all the dependencies listed in the package.json file, including the specific versions specified for each package. Once the installation is complete, you can proceed with running the project or 
-    making any necessary configurations.
+3. Install the required dependencies using NPM:
 
-3. Make sure to handle any potential errors or conflicts during the installation process, and refer to the documentation for each dependency for more detailed setup instructions if needed.
+   npm install
 
-    Please replace the placeholders such as `your-username` and `your-repository` with your actual GitHub username and repository name. Feel free to customize the instructions as needed to match your project specifics.
+This will install all the dependencies listed in the package.json file, including the specific versions specified for each package.
+
+4. Handle any potential errors or conflicts during the installation process, and refer to the documentation for each dependency for more detailed setup instructions if needed.
+
+   Make sure to replace the placeholders such as your-username and your-repository with your actual GitHub username and repository name. Feel free to customize the instructions as needed to match your project specifics.
 
 ## Features and Functionality
 
 The "Crypto Compare" application offers the following key features:
 
 1. **Landing Dashboard:** Presents a comprehensive overview and breakdown of the most relevant properties of the selected cryptocurrency data set, using interactive Chart.js elements to visualize data.
+   
+   ![home](./wireframes/home.png)
 
-2. **Comparison Page:** Includes a dedicated page for comparing two distinct objects from the data set. It utilizes Bar, Pie, and Radar or Polar Area charts to outline and compare the properties of the selected objects.
+3. **Comparison Page:** Includes a dedicated page for comparing two distinct objects from the data set. It utilizes Bar, Pie, and Radar or Polar Area charts to outline and compare the properties of the selected objects.
 
-3. **Timeline Page:** Displays a dynamic Line Graph that maps the entries of at least 5 different properties across the entire dataset. The timeline is interactive and allows users to change the displayed property via an input.
+   ![home](./wireframes/home.png)
+
+5. **Timeline Page:** Displays a dynamic Line Graph that maps the entries of at least 5 different properties across the entire dataset. The timeline is interactive and allows users to change the displayed property via an input.
+
+   ![home](./wireframes/home.png)
 
 ## Concept Process
 
@@ -77,17 +86,21 @@ The development process involved the following stages:
 
 ### Ideation
 
-The project was conceptualized with the primary aim of simplifying the process of comparing various cryptocurrencies. Taking inspiration from existing cryptocurrency comparison platforms, the team brainstormed and designed wireframes to ensure an intuitive user interface.
+The project was conceptualized with the primary aim of simplifying the process of comparing various cryptocurrencies. Taking inspiration from existing cryptocurrency comparison platforms, I brainstormed and designed wireframes to ensure an intuitive user interface.
 
 ### User-side Wireframes
 
-The project's wireframes were meticulously designed, including the login, home, questions, answers, and profile screens.
+The project's wireframes were meticulously designed, including the home, compare, and timeline screens.
+
+   ![home](./wireframes/home.png)
+   ![home](./wireframes/home.png)
+   ![home](./wireframes/home.png)
 
 ## Development Process
 
 ### Highlights
 
-Throughout the development phase, the team emphasized implementing the necessary functionalities while ensuring an intuitive and user-friendly interface. The project also involved a thorough exploration of the MERN stack and the seamless integration of various APIs for efficient data retrieval and visualization.
+Throughout the development phase, I emphasized implementing the necessary functionalities while ensuring an intuitive and user-friendly interface. The project also involved a thorough exploration of the MERN stack and the seamless integration of various APIs for efficient data retrieval and visualization.
 
 ### Challenges
 
