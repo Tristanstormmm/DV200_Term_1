@@ -72,11 +72,11 @@ The "Crypto Compare" application offers the following key features:
    
 ![landing](./ReadMe_T1/feature_1.png)
 
-3. **Comparison Page:** Includes a dedicated page for comparing two distinct objects from the data set. It utilizes Bar, Pie, and Radar chart to outline and compare the properties of the selected objects.
+2. **Comparison Page:** Includes a dedicated page for comparing two distinct objects from the data set. It utilizes Bar, Pie, and Radar chart to outline and compare the properties of the selected objects.
 
 ![comparison](./ReadMe_T1/feature_2.png)
 
-5. **Timeline Page:** Displays a dynamic Line Graph that maps the entries of at least 5 different properties across the entire dataset. The timeline is interactive and allows users to change the displayed property via an input.
+3. **Timeline Page:** Displays a dynamic Line Graph that maps the entries of at least 5 different properties across the entire dataset. The timeline is interactive and allows users to change the displayed property via an input.
 
 ![timeline](./ReadMe_T1/feature_3.png)
 
