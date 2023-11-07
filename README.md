@@ -1,6 +1,6 @@
 # Interactive Development 200 Term 1 - Crypto Compare
 
-![home](./wireframes/home.png)
+(./ReadMe_T1/logo.png)
 
 ## About the Project
 
