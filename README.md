@@ -92,9 +92,9 @@ The project was conceptualized with the primary aim of simplifying the process o
 
 The project's wireframes were meticulously designed, including the home, compare, and timeline screens.
 
-   ![home](./wireframes/home.png)
-   ![home](./wireframes/home.png)
-   ![home](./wireframes/home.png)
+![homew](./ReadMe_T1/Home.png)
+![comparew](./ReadMe_T1/Compare.png)
+![timelinew](./ReadMe_T1/Timeline.png)
 
 ## Development Process
 
