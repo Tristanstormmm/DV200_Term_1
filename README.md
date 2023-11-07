@@ -72,7 +72,7 @@ The "Crypto Compare" application offers the following key features:
    
 ![landing](./ReadMe_T1/feature_1.png)
 
-3. **Comparison Page:** Includes a dedicated page for comparing two distinct objects from the data set. It utilizes Bar, Pie, and Radar or Polar Area charts to outline and compare the properties of the selected objects.
+3. **Comparison Page:** Includes a dedicated page for comparing two distinct objects from the data set. It utilizes Bar, Pie, and Radar chart to outline and compare the properties of the selected objects.
 
 ![comparison](./ReadMe_T1/feature_2.png)
 
