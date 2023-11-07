@@ -1,6 +1,6 @@
 # Interactive Development 200 Term 1 - Crypto Compare
 
-   ![logo](./ReadMe_T1/logo.png)
+![logo](./ReadMe_T1/logo.png)
 
 ## About the Project
 
@@ -70,15 +70,15 @@ The "Crypto Compare" application offers the following key features:
 
 1. **Landing Dashboard:** Presents a comprehensive overview and breakdown of the most relevant properties of the selected cryptocurrency data set, using interactive Chart.js elements to visualize data.
    
-   ![home](./wireframes/home.png)
+![landing](./ReadMe_T1/feature_1.png)
 
 3. **Comparison Page:** Includes a dedicated page for comparing two distinct objects from the data set. It utilizes Bar, Pie, and Radar or Polar Area charts to outline and compare the properties of the selected objects.
 
-   ![home](./wireframes/home.png)
+![comparison](./ReadMe_T1/feature_2.png)
 
 5. **Timeline Page:** Displays a dynamic Line Graph that maps the entries of at least 5 different properties across the entire dataset. The timeline is interactive and allows users to change the displayed property via an input.
 
-   ![home](./wireframes/home.png)
+![timeline](./ReadMe_T1/feature_3.png)
 
 ## Concept Process
 
