@@ -100,30 +100,24 @@ The project's wireframes were meticulously designed, including the home, compare
 
 ### Highlights
 
-Throughout the development phase, I emphasized implementing the necessary functionalities while ensuring an intuitive and user-friendly interface. The project also involved a thorough exploration of the MERN stack and the seamless integration of various APIs for efficient data retrieval and visualization.
+During the development phase, I focused on creating a user-friendly cryptocurrency comparison tool with a comprehensive range of functionalities. The project involved meticulous exploration of cryptocurrency data and the seamless integration of APIs to facilitate efficient data retrieval and visualization. With a strong emphasis on user experience, I strived to ensure intuitive navigation and clear presentation of complex cryptocurrency data. Leveraging the latest technologies in the blockchain space, the project aimed to provide users with a seamless and insightful comparison of various cryptocurrencies, empowering them to make informed investment decisions.
 
 ### Challenges
 
-The development process presented various challenges, notably related to image uploading within the API. Overcoming these obstacles provided valuable insights into the complexities of API integration and data visualization, further enhancing the team's overall skill set.
+Throughout the development process, I encountered significant challenges primarily focused on implementing complex chart functionalities and effectively pulling data from the Coinranking API. Overcoming these obstacles provided valuable insights into the intricacies of data visualization and API integration, contributing to an enhanced understanding and proficiency in handling intricate cryptocurrency data sets.```
 
 ## Future Implementation
 
-Moving forward, the "Crypto Compare" project has several areas for potential enhancements, including code optimization, increased user interactivity, and enhanced visual engagement. The team plans to streamline the code further, improve overall consistency, and introduce additional interactive features to enhance the user experience.
-
-## Final Outcome
-
-### Mockup Video
-
-A comprehensive mockup video demonstrating the application's key features and functionalities is available at the following link: [Mockup Video](https://github.com/MareliLourens/OpenFlow/assets/109971278/8f61f450-b44c-4f12-83a9-c5c9435bf0a6)
+Moving forward, the "Crypto Compare" project has several areas for potential enhancements, including code optimization, increased user interactivity, and enhanced visual engagement. I plan to streamline the code further, improve overall consistency, and introduce additional interactive features to enhance the user experience.
 
 ## Conclusion
 
-The "Crypto Compare" project has provided an invaluable learning experience for the team, highlighting the significance of effective communication, collaborative teamwork, and technical expertise. Despite the challenges encountered during the development process, the project served as a platform for the team to enhance their problem-solving abilities and solidify their understanding of essential software development principles. The team looks forward to implementing additional features and improvements in the future, leveraging the valuable knowledge gained from this project.
+The "Crypto Compare" project has provided me with an invaluable learning experience, highlighting the significance of effective communication, dedicated effort, and technical expertise. Despite the challenges encountered during the development process, this project has been instrumental in enhancing my problem-solving abilities and solidifying my understanding of essential software development principles. I look forward to implementing additional features and improvements in the future, leveraging the valuable knowledge gained from this project.
 
 ## Contact
 
 For any inquiries or further information, please feel free to reach out to:
 
-- **Tristan Storm** - [email@address](mailto:email@address) - [@instagram_handle](https://www.instagram.com/instagram_handle/)
-- **Project Link** - [Project Link](https://github.com/username/projectname)
+- **Tristan Storm** - [221195@virtualwindow.co.za]
+- **Project Link** - [Project Link]([https://github.com/username/projectname](https://github.com/Tristanstormmm/FinalHandIn221195)https://github.com/Tristanstormmm/FinalHandIn221195)
 
