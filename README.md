@@ -34,10 +34,10 @@ The following dependencies have been installed for this project:
 
 Before getting started, ensure you have the following software installed:
 
-- [React]([[https://git-scm.com/downloads](https://react.dev/learn/installation)](https://react.dev/learn/installation))
-- [Chart.js]([https://www.npmjs.com/](https://www.chartjs.org/docs/latest/getting-started/installation.html))
-- [Coinranking]([https://www.npmjs.com/](https://developers.coinranking.com/api/documentation))
-- [React Router]([https://www.npmjs.com/](https://reactrouter.com/en/main))
+- [React](https://react.dev/learn/installation)
+- [Chart.js](https://www.chartjs.org/docs/latest/getting-started/installation.html)
+- [Coinranking](https://developers.coinranking.com/api/documentation)
+- [React Router](https://reactrouter.com/en/main)
 
 ### Installation
 
@@ -119,5 +119,5 @@ The "Crypto Compare" project has provided me with an invaluable learning experie
 For any inquiries or further information, please feel free to reach out to:
 
 - **Tristan Storm** - [221195@virtualwindow.co.za]
-- **Project Link** - [Project Link]([https://github.com/username/projectname](https://github.com/Tristanstormmm/FinalHandIn221195)https://github.com/Tristanstormmm/FinalHandIn221195)
+- **Project Link** - [Project Link](https://github.com/Tristanstormmm/FinalHandIn221195)
 
