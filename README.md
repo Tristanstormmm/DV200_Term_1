@@ -1,167 +1,85 @@
-<!-- HEADER SECTION -->
-<h5 align="center" style="padding:0;margin:0;">Tristan Storm</h5>
-<h5 align="center" style="padding:0;margin:0;">221195</h5>
-<h6 align="center">DV200 2023</h6>
-</br>
-<p align="center">
+# Interactive Development 200 Term 4 - Mareli Lourens, Tebogo Ramolobeng, Cameron Godwin, Tristan Storm
 
-  <a href="[https://github.com/username/projectname](https://github.com/Tristanstormmm/FinalHandIn221195)">
-    <img src="path/to/logo" alt="Logo" width="140" height="140">
-  </a>
-  
-  <h3 align="center">DV200 Term 1</h3>
+## About the project:
 
-  <p align="center">
-    Short Project Slogan / Description <br>
-      <a href="https://github.com/username/projectname"><strong>Explore the docs »</strong></a>
-   <br />
-   <br />
-   <a href="path/to/demonstration/video">View Demo</a>
-    ·
-    <a href="https://github.com/username/projectname/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/username/projectname/issues">Request Feature</a>
-</p>
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
+In our current roles as a fullstack developers, we embarked on a project to develop a full MERN stack application that's similar to the popular website, Stack Overflow . One particularly exciting aspect of this endeavor was the opportunity to delve into the code with the endpoint of creating this application for students from our own university. Given that Stack Overflow is already such a widely used website we made it our mission to make it as similar as possible but also "fixing" the pain points that we all had with it. This lead to a more UI focused website that is easier to maneuver.<br></br>
+To initiate this project, we all sad down for an ideation session that would serve as the foundation of our work. Simultaneously, each of us started with the project in the areas where we all excel in.
+<br><br>
+For this project, we utilized React and Node.js, as well as advanced Javascript and Axios.
 
-* [About the Project](#about-the-project)
-  * [Project Description](#project-description)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [How to install](#how-to-install)
-* [Features and Functionality](#features-and-functionality)
-* [Concept Process](#concept-process)
-   * [Ideation](#ideation)
-   * [Wireframes](#wireframes)
-   * [User-flow](#user-flow)
-* [Development Process](#development-process)
-   * [Implementation Process](#implementation-process)
-        * [Highlights](#highlights)
-        * [Challenges](#challenges)
-   * [Reviews and Testing](#peer-reviews)
-        * [Feedback from Reviews](#feedback-from-reviews)
-        * [Unit Tests](#unit-tests)
-   * [Future Implementation](#peer-reviews)
-* [Final Outcome](#final-outcome)
-    * [Mockups](#mockups)
-    * [Video Demonstration](#video-demonstration)
-* [Conclusion](#conclusion)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+## Getting Started:
 
-<!--PROJECT DESCRIPTION-->
+### Prerequisites:
 
-### Project Description
+* [Git](https://git-scm.com/downloads)
+* [Node.js](https://nodejs.org/en)
+* [NPM](https://www.npmjs.com/)
 
-A nice introduction to this amazing project of mine.
+### How to install:
 
-### Built With
+* React Bootstrap <br> `npm install react-bootstrap bootstrap`
+* React Router DOM <br> `npm i react-router-dom`
+* Axios <br> `npm i axios`
 
-* [Technology Name](path/to/technology/website)
-* [Technology Name](path/to/technology/website)
-* [Technology Name](path/to/technology/website)
+## Features and Functionality:
 
-<!-- GETTING STARTED -->
-<!-- Make sure to add appropriate information about what prerequesite technologies the user would need and also the steps to install your project on their own mashines -->
-## Getting Started
+The web application is structured around six primary user-facing pages. The initial page serves as the home screen, showcasing the top questions that students have asked as well as a search bar where a user can search for a question and an answer. Next, on the questions page, the user will be able to "ask" a question about their code. They'll be able to type the question as well as select tags that are related to their question. Additionally the user will also be able to add extra information to help better describe their question. If the user then wants to they can add an image of their code before they upload the question. 
 
-The following instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Moving on to the answers page, this is where users will be able to see questions that have already been answered as well as questions that are yet to be answered. They might also want to view more information around a specific question and move on to the answered questions page. However at the very beginning of the journey the user should first log in or sign up so that when they are logged in then they can see their profile on the profile page.
 
-### How to install
+## Concept Process:
 
-### Installation
-Here are a couple of ways to clone this repo:
+### Ideation:
 
-1. Software </br>
-`Android Studio` -> `File` -> `New` -> `From Version Control` -> `Git`</br>
-Enter `https://github.com/username/projectname.git` into the URL field and press the `Clone` button.
+In the initial brainstorming stage of the project, we took a look at Stack Overflow that was our main inspiration for this project and took the parts from that website that we liked and started forming wireframes around that. Next we looked through what we do not like about the website and we tried to rework those things to fit what we think would be a better output option. After we set up the wireframes we started with the initial setup of the codebase as well as the server side setup.
 
-2. Clone Repository </br>
-Run the following in the command-line to clone the project:
-   ```sh
-   git clone https://github.com/username/projectname.git
-   ```
-    Open `Software` and select `File | Open...` from the menu. Select cloned directory and press `Open` button
+### User-side Wireframes:
 
-3. Install Dependencies </br>
-Run the following in the command-line to install all the required dependencies:
-   ```sh
-   npm install
-   ```
+![login](./wireframes/login.png)
+![home](./wireframes/home.png)
+![questions](./wireframes/questions.png)
+![answers](./wireframes/answers.png)
+![profile](./wireframes/profile.png)
 
-4. Get a free API Key at [https://example.com](https://example.com) and enter it in the `config.js` file:
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
-<!-- FEATURES AND FUNCTIONALITY-->
-<!-- You can add the links to all of your imagery at the bottom of the file as references -->
-## Features and Functionality
-
-![image2][image2]
-### Feature 1
-
-Description of Feature
-
-![image3][image3]
-### Feature 2
-
-Description of Feature
-
-![image4][image4]
-### Feature 3
-
-Description of Feature
-
-![image5][image5]
-
-### Wireframes
-
-![image7][image7]
-
-<!-- DEVELOPMENT PROCESS -->
 ## Development Process
 
-The `Development Process` is the technical implementations and functionality done in the frontend and backend of the application.
+### Highlights
 
-#### Challenges
-<!-- stipulated the challenges you faced with the project and why you think you faced it or how you think you'll solve it (if not solved) -->
-* Bugs.
-* Bugs.
+We found the experience of working on this project to be immensely rewarding. One of the key highlights us was learning how to work as a team to complete a website that is fully functional and deployment ready.
 
-<!-- MOCKUPS -->
+Another aspect of the project that we found particularly enjoyable was the chance to further improve our understanding of MERM stack development as well as React. As people who has worked with APIs in the past, we were already familiar with the basic concepts and principles involved. However, this project allowed us to delve deeper into the topic and gain a more nuanced understanding of how APIs work, how to use them effectively, and how to troubleshoot issues that might arise. By creating our own API it helped us gain further insight into how they are structured.
+
+Overall, I feel that this project was an incredibly valuable learning experience for us. Not only did it allow us to expand our skill sets and gain a deeper understanding of key concepts and techniques, but it also gave us the opportunity to work on a real-world project with practical applications as a group. We look forward to building on what we've learned and continuing to grow and develop as programmers and developers in the future.
+
+### Challenges
+
+Over the duration of this project, we encountered several obstacles that stretched our skill sets and took us beyond our familiar territory. Among these challenges, a particularly noteworthy hurdle emerged in uploading images onto our API.
+
+While the project undoubtedly presented substantial challenges, we view it as an invaluable learning journey. Navigating the complexities tied to the API and charts forced us to expand our developer capabilities and gain novel problem-solving insights. Reflecting on the project, a sense of accomplishment fills us as we consider what we managed to achieve. We eagerly anticipate applying these newfound lessons to upcoming ventures and obstacles.
+
+## Future Implementation
+
+Reflecting on our work on this project, there are several areas where we feel there is room for improvement and further development. One of the key areas where we would like to focus in the future is on stabilizing the code and improving consistency. While we were able to get the code working effectively for the purposes of this project, we feel that there is room for improvement in terms of streamlining the code, making it more efficient, and reducing redundancies. In addition, we would like to develop a more consistent coding style when it comes to working in a group, to make the code more accessible to others and easier to maintain over time.
+
+Another area where we would like to expand and enhance the project is in making it more interactive and engaging for users. While the website is functional and provides a useful service, we believe that there is room to add more interactivity and animation to the site, in order to make it more visually appealing and engaging for users. This might involve developing new features and functionalities, such as interactive maps or dynamic data visualizations, or adding subtle animations and effects to various elements of the site.
+
 ## Final Outcome
 
-### Mockups
+### Mockup Video
 
-![image9][image9]
-<br>
-![image10][image10]
 
-<!-- VIDEO DEMONSTRATION -->
-### Video Demonstration
+https://github.com/MareliLourens/OpenFlow/assets/109971278/8f61f450-b44c-4f12-83a9-c5c9435bf0a6
 
-To see a run through of the application, click below:
 
-[View Demonstration](path/to/video/demonstration)
+## Conclusion
+This project has been an incredible learning experience for us, and we are truly grateful for the opportunity to work on it. Throughout the course of the project, we have learned so much, from technical skills to project management and collaboration.
 
-<!-- AUTHORS -->
-## Authors
+Working on this project has allowed us to put into practice many of the concepts and techniques we have learned in our studies, and it has also challenged us to expand our knowledge and skills. From developing the initial idea to designing and implementing the project, we have gained a deeper understanding of the software development process and the importance of effective communication and teamwork.
 
-* **Your Name & Surname** - [username](https://github.com/username)
+We am particularly proud of the progress we have made in developing our programming skills. We have also gained a greater appreciation for the importance of testing and debugging, and how these skills are critical to developing high-quality software.
 
-<!-- LICENSE -->
-## License
+Overall, this project has been an incredibly fulfilling experience, and we are eager to continue working on it and implementing new features and improvements in the future. We believe that this project has not only helped us to develop our technical skills, but has also given us valuable experience working in a team environment and managing a project from start to finish. We am excited to take these skills and experiences with me as we move forward in our career, and we am confident that they will serve us well in whatever challenges lie ahead.
 
-Distributed under the MIT License. See `LICENSE` for more information.\
-
-<!-- LICENSE -->
 ## Contact
 
 * **Your Name & Surname** - [email@address](mailto:email@address) - [@instagram_handle](https://www.instagram.com/instagram_handle/) 
